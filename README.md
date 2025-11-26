@@ -1,3 +1,5 @@
+Playwright Automation Crawler ---
+
 The crawler supports three modes:
 	•	accept — accept all cookies
 	•	reject — reject all cookies
